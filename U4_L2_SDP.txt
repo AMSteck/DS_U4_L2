@@ -1,0 +1,1 @@
+1. you can only access the last one put inside so you can put the original string in and when you add the top to the new string its reversed
